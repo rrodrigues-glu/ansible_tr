@@ -1,2 +1,4 @@
 # ansible_tr
-ansible training 
+
+This is a Ansible Repo for testing -Romualdo
+
